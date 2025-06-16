@@ -2,16 +2,18 @@
 
 Welcome to my GitHub!
 
-I am currently working on:
+A lot of the coding I do these days is aimed at:
 - Multimodality and sample-efficient training at [Manifold Machines](https://manifold.mk/)
 - AI safety research at the [AI Safety Initiative Groningen](https://www.aisig.org/)
 
-I am interested in physics, compositionality in general intelligence. Currently learning more about RL.
+My background is in physics, and working on intelligence is incredibly exciting for me. Currently learning more about RL. Learn more about me on https://ilijalichkovski.notion.site/.
 
-For more info or to contact me, check out:
-- https://ilijalichkovski.notion.site/
+To contact me, go to:
 - https://x.com/carnot_cyclist
 - https://www.linkedin.com/in/ilija-lichkovski/
+- or email me at ilija at manifold dot mk
+
+
 
 <!--
 **ilijalichkovski/ilijalichkovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
