@@ -2,9 +2,11 @@
 
 Welcome to my GitHub!
 
-A lot of the coding I do these days is aimed at:
+A lot of the coding I do these days is for the purposes of:
 - Multimodality and sample-efficient training at [Manifold Machines](https://manifold.mk/)
 - AI safety research at the [AI Safety Initiative Groningen](https://www.aisig.org/)
+
+A lot of my work is currently in private repositories but that should change in the coming months.
 
 My background is in physics, and working on intelligence is incredibly exciting for me. Currently learning more about RL. Read more about me on https://ilijalichkovski.notion.site/.
 
