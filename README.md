@@ -8,7 +8,7 @@ A lot of the coding I do these days is for the purposes of:
 
 A lot of my work is currently in private repositories but that should change in the coming months.
 
-My background is in physics, and working on intelligence is incredibly exciting for me. Currently learning more about RL. Read more about me on https://ilijalichkovski.notion.site/.
+My background is in physics, and working on intelligence is incredibly exciting for me. Currently learning more about RL. Read more about me on https://ilijalichkovski.github.io/.
 
 To contact me, go to:
 - https://x.com/carnot_cyclist
